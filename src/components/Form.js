@@ -137,7 +137,7 @@ function Form() {
             Select a category
           </option>
           <option value="Electronics">Electronics</option>
-          <option value="Skin care">Skin care</option>
+          <option value="Skin care">Health & beauty</option>
           <option value="Food">Food</option>
           <option value="Phones & tablets">Phones & tablets</option>
           <option value="Appliances">Appliances</option>
